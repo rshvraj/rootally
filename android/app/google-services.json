@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564761306981",
+    "project_id": "root-ally",
+    "storage_bucket": "root-ally.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564761306981:android:70987bd82849a111dae38c",
+        "android_client_info": {
+          "package_name": "com.example.rootally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564761306981-ho1aasdbn7jd5756kg1lg1ah8a3udmg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUCzpIqVy7urRh_dx7SfLBNaZIp46_epM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564761306981-ho1aasdbn7jd5756kg1lg1ah8a3udmg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
